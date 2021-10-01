@@ -5,7 +5,7 @@ A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Cur
 
 ## Project Overview
 Project Name | Project State | Repository
------------- | -------------
+------------ | ------------- | -------------
 Elevator System Prototype | In progress | [Repo](https://github.com/aquino35/elevator_system_prototype)
 Pyrunner | In progress | [Repo](https://github.com/YousefSalaman/pyrunner)
 Programming Language Project | (Soon) | [Repo](http://github.com)
@@ -23,6 +23,7 @@ Simple Traffic Light Controller | Compleated | [Repo](http://github.com)
 
 
 Email is the best way of contact
+
 Thank you for visiting my profile! 😄
 <!--
 **aquino35/aquino35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
