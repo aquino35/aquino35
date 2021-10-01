@@ -1,19 +1,19 @@
 # Welcome to my Github page! 👋
 
 ## Profile 
-A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Currently, in my fith year seeking project, intership or coop opportinuties that will expand my knowlegde in robotics, software development and embedded systems. In this page I have started to lay out some of my current and past projects along with some laboratory course work I have done.
+A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Currently, in my fith year seeking project, intership or coop opportinuties that will expand my knowlegde in robotics, software development and embedded systems. In this page I have started to lay out some of my current and past projects along with some laboratory course work I have compleated.
 
 ## Project Overview
 Project Name | Project State | Repository
 ------------ | ------------- | -------------
-Elevator System Prototype | In progress | [Repo](https://github.com/aquino35/elevator_system_prototype)
+Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
 Pyrunner | In progress | [Repo](https://github.com/YousefSalaman/pyrunner)
-Programming Language Project | (Soon) | [Repo](http://github.com)
-Logic Circuit Simulator | Compleated | [Repo](http://github.com)
-Microblogging (Twitter) Project | Compleated | [Repo](http://github.com)
-Operating System Laboratories | In progress | [Repo](http://github.com)
-Programming Laguages Assingments | In progress | [Repo](http://github.com)
-Simple Traffic Light Controller | Compleated | [Repo](http://github.com)
+Programming Language Project | (Soon) | [Here](http://github.com)
+Logic Circuit Simulator | Compleated | [Here](http://github.com)
+Microblogging (Twitter) Project | Compleated | [Here](http://github.com)
+Operating System Laboratories | In progress | [Here](http://github.com)
+Programming Laguages Assingments | In progress | [Here](http://github.com)
+Simple Traffic Light Controller | Compleated | [Here](http://github.com)
 
 ## Github Stats
 ![Osvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino35&show_icons=true&theme=dark)
