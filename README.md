@@ -7,7 +7,7 @@ A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Cur
 Project Name | Project State | Repository
 ------------ | ------------- | -------------
 Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
-Pyrunner | In progress | [Repo](https://github.com/YousefSalaman/pyrunner)
+Pyrunner | In progress | [Here](https://github.com/YousefSalaman/pyrunner)
 Programming Language Project | (Soon) | [Here](http://github.com)
 Logic Circuit Simulator | Compleated | [Here](http://github.com)
 Microblogging (Twitter) Project | Compleated | [Here](http://github.com)
