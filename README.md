@@ -11,7 +11,7 @@ Project Name | Project State | Repository
 Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
 Pyrunner | In progress | [Here](https://github.com/YousefSalaman/pyrunner)
 Programming Language Project | (Soon) | [Here](http://github.com)
-Operating System Laboratory | In progress | [Here](https://github.com/aquino35/OS-Labs)
+Operating System Lab Coursework | In progress | [Here](https://github.com/aquino35/OS-Labs)
 Programming Laguages Assingments | In progress | [Here](https://github.com/aquino35/pl_assignments)
 Microblogging (Twitter) Project | Compleated | [Here](https://github.com/aquino35/microblogging-project)
 Logic Circuit Simulator | Compleated | [Here](https://github.com/aquino35/Logic_Circuit_Simulator)
