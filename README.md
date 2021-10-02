@@ -19,12 +19,12 @@ Simple Traffic Light Controller | Compleated | [Here](https://github.com/aquino3
 
 ## Github Stats
 
-![Osvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino35&show_icons=true&theme=dark)
+![Osvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino35&show_icons=true)
 
 
 ## Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35&layout=compact&theme=dark)](https://github.com/aquino35/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35&layout=compact)](https://github.com/aquino35/github-readme-stats)
 
 
 Email is the best way of contact
