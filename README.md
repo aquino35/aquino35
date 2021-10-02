@@ -1,9 +1,11 @@
 # Welcome to my Github page! 👋
 
-## Profile 
+## Profile
+
 A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Currently, in my fith year seeking project, intership or coop opportinuties that will expand my knowlegde in robotics, software development and embedded systems. In this page I have started to lay out some of my current and past projects along with some laboratory course work I have compleated.
 
 ## Project Overview
+
 Project Name | Project State | Repository
 ------------ | ------------- | -------------
 Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
@@ -17,8 +19,11 @@ Simple Traffic Light Controller | Compleated | [Here](http://github.com)
 
 ## Github Stats
 
+![Osvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino35&show_icons=true&theme=dark)
+
 
 ## Language Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35&layout=compact&theme=dark)](https://github.com/aquino35/github-readme-stats)
 
 
