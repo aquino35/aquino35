@@ -21,7 +21,7 @@ Simple Traffic Light Controller | Compleated | [Here](https://github.com/aquino3
 
 ![Osvaldo's GitHub stats](
 
-<a href="https://github.com/aquino35/github-readme-stats">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aquino35&show_icons=true)" />
 </a>
 
