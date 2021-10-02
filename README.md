@@ -12,10 +12,10 @@ Elevator System Prototype | In progress | [Here](https://github.com/aquino35/ele
 Pyrunner | In progress | [Here](https://github.com/YousefSalaman/pyrunner)
 Programming Language Project | (Soon) | [Here](http://github.com)
 Operating System Laboratory | In progress | [Here](https://github.com/aquino35/OS-Labs)
-Programming Laguages Assingments | In progress | [Here](http://github.com)
+Programming Laguages Assingments | In progress | [Here](https://github.com/aquino35/pl_assignments)
 Microblogging (Twitter) Project | Compleated | [Here](https://github.com/aquino35/microblogging-project)
-Logic Circuit Simulator | Compleated | [Here](http://github.com)
-Simple Traffic Light Controller | Compleated | [Here](http://github.com)
+Logic Circuit Simulator | Compleated | [Here](https://github.com/aquino35/Logic_Circuit_Simulator)
+Simple Traffic Light Controller | Compleated | [Here](https://github.com/aquino35/traffic_light_controller)
 
 ## Github Stats
 
