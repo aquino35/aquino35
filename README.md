@@ -16,10 +16,10 @@ Programming Laguages Assingments | In progress | [Here](http://github.com)
 Simple Traffic Light Controller | Compleated | [Here](http://github.com)
 
 ## Github Stats
-![Osvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino35&show_icons=true&theme=dark)
+![Osvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquino35173&show_icons=true&theme=dark)
 
 ## Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35173&layout=compact&theme=dark)](https://github.com/aquino35173/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35&layout=compact&theme=dark)](https://github.com/aquino35/github-readme-stats)
 
 
 Email is the best way of contact
