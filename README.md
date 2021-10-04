@@ -10,8 +10,8 @@ Project Name | Project State | Repository
 ------------ | ------------- | -------------
 Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
 Pyrunner | In progress | [Here](https://github.com/YousefSalaman/pyrunner)
-Programming Language Project | (Soon) | [Here](http://github.com)
-Operating System Lab Coursework | In progress | [Here](https://github.com/aquino35/OS-Labs)
+Programming Languages Project | (Soon) | [Here](http://github.com)
+Operating Systems Lab Coursework | In progress | [Here](https://github.com/aquino35/OS-Labs)
 Communications Theory I Coursework | In progress | [Here](https://github.com/aquino35/OS-Labs)
 Programming Laguages Assingments | In progress | [Here](https://github.com/aquino35/pl_assignments)
 Microblogging (Twitter) Project | Compleated | [Here](https://github.com/aquino35/microblogging-project)
