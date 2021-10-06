@@ -12,7 +12,7 @@ Elevator System Prototype | In progress | [Here](https://github.com/aquino35/ele
 Pyrunner | In progress | [Here](https://github.com/YousefSalaman/pyrunner)
 Programming Languages Project | (Soon) | [Here](http://github.com)
 Operating Systems Lab Coursework | In progress | [Here](https://github.com/aquino35/OS-Labs)
-Communications Theory I Coursework | In progress | [Here](https://github.com/aquino35/OS-Labs)
+Communications Theory I Coursework | In progress | [Here](https://github.com/aquino35/teocom_coursework)
 Programming Laguages Assingments | In progress | [Here](https://github.com/aquino35/pl_assignments)
 Microblogging (Twitter) Project | Compleated | [Here](https://github.com/aquino35/microblogging-project)
 Logic Circuit Simulator | Compleated | [Here](https://github.com/aquino35/Logic_Circuit_Simulator)
