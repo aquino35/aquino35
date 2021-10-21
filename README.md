@@ -25,7 +25,7 @@ Simple Traffic Light Controller | Compleated | [Here](https://github.com/aquino3
 
 ## Language Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35&layout=compact)](https://github.com/aquino35/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35)](https://github.com/aquino35/github-readme-stats)
 
 
 
