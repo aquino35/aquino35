@@ -8,8 +8,8 @@ A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Cur
 
 Project Name | Project State | Repository
 ------------ | ------------- | -------------
-Hydrus Logic Package | Coming soon | [Here](https://github.com/aquino35/elevator_system_prototype)
-Hydrus Architecture Collection | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
+Hydrus Logic Package | Coming soon | [Here](https://github.com/aquino35)
+Hydrus Architecture Collection | In progress | [Here](https://github.com/aquino35/)
 Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
 Pyrunner | In progress | [Here](https://github.com/YousefSalaman/pyrunner)
 Hydrus Simulator | In progress | [Here](https://github.com/aquino35/hydrus_simulator)
