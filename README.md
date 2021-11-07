@@ -8,6 +8,7 @@ A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Cur
 
 Project Name | Project State | Repository
 ------------ | ------------- | -------------
+Hydrus AUV Repository | Coming soon | [Here](https://github.com/Rumarino-Team/Hydrus)
 Hydrus Mission Control Package | Coming soon | [Here](https://github.com/Rumarino-Team/mision_control_pkg)
 Hydrus Architecture Collection | In progress | [Here](https://github.com/Rumarino-Team/Architectures)
 Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
