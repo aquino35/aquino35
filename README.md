@@ -30,8 +30,6 @@ Simple Traffic Light Controller | Compleated | [Here](https://github.com/aquino3
 <br />
 <br />
 
-## Github Stats
-
 <details>
   <summary> GitHub Stats 🙂</summary>
   
