@@ -30,8 +30,6 @@ Simple Traffic Light Controller | Compleated | [Here](https://github.com/aquino3
 <br />
 <br />
 
-
-
 ## Github Stats
 
 <details>
@@ -44,8 +42,9 @@ Simple Traffic Light Controller | Compleated | [Here](https://github.com/aquino3
 
 <details>
   <summary> Language Stats</summary>
+  
 <!--START_SECTION:activity-->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35)](https://github.com/aquino35/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquino35)](https://github.com/aquino35/github-readme-stats)
 <!--END_SECTION:activity-->
 </details>
 
