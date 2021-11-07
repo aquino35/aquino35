@@ -2,7 +2,8 @@
 
 ## Profile
 
-A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Currently, in my fith year seeking project, intership or coop opportinuties that will expand my knowlegde in robotics, software development or embedded systems. In this page I have started to lay out some of my current and past projects along with some laboratory course work I have compleated. If you want to collaborate on a project feel free to contact me!
+A computer engineering student at the Universtiy of Puerto Rico - Mayagüez. Currently, in my fith year seeking project, intership or coop opportinuties that will expand my knowlegde in robotics, software development or embedded systems. In this page you can see some of my current and past projects along with some collaborations and coursework I have compleated. 
+If you want to collaborate on a project feel free to contact me!
 
 ## Project Overview
 
