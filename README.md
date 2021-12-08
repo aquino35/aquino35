@@ -15,13 +15,13 @@ Hydrus Architecture Collection | In progress | [Here](https://github.com/Rumarin
 Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
 Pyrunner | In progress | [Here](https://github.com/YousefSalaman/pyrunner)
 Hydrus Simulator | In progress | [Here](https://github.com/aquino35/hydrus_simulator)
-Programming Languages Project | (Soon) | [Here](http://github.com)
-Operating Systems Lab Coursework | In progress | [Here](https://github.com/aquino35/OS-Labs)
-Communications Theory I Coursework | In progress | [Here](https://github.com/aquino35/teocom_coursework)
-Programming Laguages Assingments | In progress | [Here](https://github.com/aquino35/pl_assignments)
-Microblogging (Twitter) Project | Compleated | [Here](https://github.com/aquino35/microblogging-project)
-Logic Circuit Simulator | Compleated | [Here](https://github.com/aquino35/Logic_Circuit_Simulator)
-Simple Traffic Light Controller | Compleated | [Here](https://github.com/aquino35/traffic_light_controller)
+Programming Languages Project | Completed | [Here](https://github.com/XV1R/guardML)
+Operating Systems Lab Coursework |Completed | [Here](https://github.com/aquino35/OS-Labs)
+Communications Theory I Coursework | Completed | [Here](https://github.com/aquino35/teocom_coursework)
+Programming Laguages Assingments | Completed | [Here](https://github.com/aquino35/pl_assignments)
+Microblogging (Twitter) Project | Completed | [Here](https://github.com/aquino35/microblogging-project)
+Logic Circuit Simulator | Completed | [Here](https://github.com/aquino35/Logic_Circuit_Simulator)
+Simple Traffic Light Controller | Completed | [Here](https://github.com/aquino35/traffic_light_controller)
 
 ### Tools:
 
