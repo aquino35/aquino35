@@ -9,12 +9,12 @@ If you want to collaborate on a project feel free to contact me!
 
 Project Name | Project State | Repository
 ------------ | ------------- | -------------
-Hydrus AUV Repository | Coming soon | [Here](https://github.com/Rumarino-Team/Hydrus)
+Hydrus AUV Repository | In progress | [Here](https://github.com/Rumarino-Team/Hydrus)
 Hydrus Mission Control Package | Coming soon | [Here](https://github.com/Rumarino-Team/mision_control_pkg)
 Hydrus Architecture Collection | In progress | [Here](https://github.com/Rumarino-Team/Architectures)
+RUMarino-Team Simulator | In progress | [Here](https://github.com/aquino35/rumarino-simulation)
 Elevator System Prototype | In progress | [Here](https://github.com/aquino35/elevator_system_prototype)
 Pyrunner | In progress | [Here](https://github.com/YousefSalaman/pyrunner)
-Hydrus Simulator | In progress | [Here](https://github.com/aquino35/hydrus_simulator)
 Programming Languages Project | Completed | [Here](https://github.com/XV1R/guardML)
 Operating Systems Lab Coursework |Completed | [Here](https://github.com/aquino35/OS-Labs)
 Communications Theory I Coursework | Completed | [Here](https://github.com/aquino35/teocom_coursework)
